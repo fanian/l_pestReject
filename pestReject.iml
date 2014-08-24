@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="CompassSettings">
+    <option name="compassConfigPath" value="H:\proj\pestReject\config.rb" />
+    <option name="compassExecutableFilePath" value="$MODULE_DIR$/../Ruby200/bin/compass.bat" />
+    <option name="compassSupportEnabled" value="true" />
+    <option name="importPaths">
+      <list>
+        <option value="$MODULE_DIR$/../Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.7/frameworks/blueprint/stylesheets" />
+        <option value="$MODULE_DIR$/../Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.7/frameworks/compass/stylesheets" />
+      </list>
+    </option>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="compass-library" level="project" />
+    <orderEntry type="library" name="sass-stdlib" level="application" />
+  </component>
+</module>
+
