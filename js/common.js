@@ -16,8 +16,16 @@ head.ready(function() {
             title: 'Спасибо!'
         }
     });
+    $("#form2 form").ajaxForm({
+        success: function () {
+            $(".thanks-link").trigger('click');
+        },
+        data: {
+            title: 'Спасибо!'
+        }
+    });
 
-    $("#form4").ajaxForm({
+    $("#form3").ajaxForm({
         success: function () {
             $(".thanks-link").trigger('click');
         },
